@@ -1,2 +1,2 @@
 # simple-webapp
-simple python webapp with flask
+simple python webapp with flask.
